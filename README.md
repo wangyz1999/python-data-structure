@@ -1,2 +1,2 @@
 # python-data-structure
-a python data structure crash course with professor Jimin Gao
+A Python and Data Structure Crash Course with Professor Jimin Gao
